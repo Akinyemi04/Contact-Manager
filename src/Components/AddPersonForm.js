@@ -12,6 +12,7 @@ const AddPersonForm = (props) => {
         }
         e.preventDefault()
     }
+
   return (
     <div>
         <h1>Contact Manager</h1>
