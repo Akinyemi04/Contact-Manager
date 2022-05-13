@@ -4,6 +4,7 @@
 }
 body{
   background-color: darkgray;
+  background-image:url(num.webp);
 }
 
 li{
@@ -28,4 +29,5 @@ button{
 }
 h1{
   margin: 10px 20px;
+  color:silver;
 }
